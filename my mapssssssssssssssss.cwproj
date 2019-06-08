@@ -1,0 +1,17 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ss airfield\ssfield.ymap</Item>
+    <Item>fhouse\fhouse.ymap</Item>
+    <Item>blanca\blanco.ymap</Item>
+    <Item>casino interior\mycasino.ymap</Item>
+    <Item>beach showroom\showroom.ymap</Item>
+    <Item>kushyhideout\kushyhideout.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+</CodeWalkerProject>
